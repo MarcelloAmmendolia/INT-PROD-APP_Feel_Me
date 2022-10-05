@@ -19,6 +19,8 @@ The prototype is powered by a very small Li-Po battery, connected to a charging 
 guarantees the operation even without external power cable.
 
 ![againanan](https://user-images.githubusercontent.com/82780678/194081318-f67619fd-f59a-4983-aa87-a5b597d42a40.png)
+Hardware parts
 
-Wiring diagram:
 ![ARDUINO WIRING](https://user-images.githubusercontent.com/82780678/194080328-f34770fd-27a7-4cb8-8d7f-281224d83c0e.png)
+Wiring diagram
+
