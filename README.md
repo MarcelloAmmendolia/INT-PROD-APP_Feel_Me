@@ -18,5 +18,7 @@ There is also a buzzer, to give the user feedback about his actions, and a butto
 The prototype is powered by a very small Li-Po battery, connected to a charging module that
 guarantees the operation even without external power cable.
 
-![ARDUINO BRACELET](https://user-images.githubusercontent.com/82780678/194080316-39535726-c9a4-4737-9710-653a75e9cf43.png)
+
+![ARDUINO BRACELET](https://user-images.githubusercontent.com/82780678/194080908-665f933a-871a-427f-a2ae-e87086fde140.png)
+Wiring diagram:
 ![ARDUINO WIRING](https://user-images.githubusercontent.com/82780678/194080328-f34770fd-27a7-4cb8-8d7f-281224d83c0e.png)
