@@ -25,5 +25,5 @@ guarantees the operation even without external power cable.
 ![usj 2](https://user-images.githubusercontent.com/82780678/194085196-365f8ab1-52e4-40d0-9940-b2aaf5389db9.png)
 ↑ User journey maps
 
-↑
-
+![final](https://user-images.githubusercontent.com/82780678/194088492-e62e7049-384b-4a62-bde3-923bdff08f0b.png)
+↑ Final appearance of the prototype of App and wearable device
