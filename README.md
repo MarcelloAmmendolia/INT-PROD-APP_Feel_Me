@@ -15,7 +15,7 @@ There is also a buzzer, to give the user feedback about his actions, and a butto
 The prototype is powered by a very small Li-Po battery, connected to a charging module that
 guarantees the operation even without external power cable.
 
-![againanan](https://user-images.githubusercontent.com/82780678/194081318-f67619fd-f59a-4983-aa87-a5b597d42a40.png)
+![111](https://user-images.githubusercontent.com/82780678/194089212-236c414a-fa7e-446c-b85a-7b3c8c250b2f.png)
 ↑ Hardware parts
 
 ![ARDUINO WIRING](https://user-images.githubusercontent.com/82780678/194080328-f34770fd-27a7-4cb8-8d7f-281224d83c0e.png)
